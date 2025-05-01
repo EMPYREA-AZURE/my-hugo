@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://EMPYREA-AZURE.github.io/my-hugo/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 May 2025 12:39:50 +0800</lastBuildDate>
+    <atom:link href="https://EMPYREA-AZURE.github.io/my-hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://EMPYREA-AZURE.github.io/my-hugo/posts/my-first-post/</link>
+      <pubDate>Thu, 01 May 2025 12:39:50 +0800</pubDate>
+      <guid>https://EMPYREA-AZURE.github.io/my-hugo/posts/my-first-post/</guid>
+      <description>&lt;p&gt;## 简介&lt;/p&gt;&#xA;&lt;p&gt;这是 &lt;strong&gt;粗体&lt;/strong&gt; 文本，这是 &lt;em&gt;斜体&lt;/em&gt; 文本。 访问 &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; 网站！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
